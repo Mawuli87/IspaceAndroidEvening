@@ -6,6 +6,7 @@
 Public repository
 ![TheMaster](https://github.com/Mawuli87/IspaceAndroid/blob/main/HappyNewYearCard/Screenshot%202.png)
 ![TheMaster](https://github.com/Mawuli87/IspaceAndroidEvening/blob/main/HappyNewYearCard/Screenshot%202.png)
+![TheMaster](https://github.com/Mawuli87/IspaceAndroidEvening/blob/main/HappyNewYearCard/meeba.jpeg)
 
 It uses a BitmapShader and **does not**:
 * create a copy of the original bitmap
